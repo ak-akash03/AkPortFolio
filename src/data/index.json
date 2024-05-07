@@ -52,26 +52,43 @@
     {
       "id": "1",
       "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "src": "./img/rahul.png",
+      "description": "Your leadership on this project has been exceptional.",
+      "author_name": "Rahul Chavan",
+      "author_designation": "theproteam"
     },
     {
       "id": "2",
       "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "src": "./img/laxman.png",
+      "description": "Your code reviews are always thorough and helpful and done quickly.",
+      "author_name": "Laxman Chavan",
+      "author_designation": "theproteam"
     },
     {
       "id": "3",
       "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "src": "./img/ganesh.png",
+      "description": "Your ability to work well with the other developers is impressive.",
+      "author_name": "Ganesh Rathod",
+      "author_designation": "theproteam"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/yogesh.png",
+      "description": "Your work consistently meets or exceeds our quality standards.",
+      "author_name": "Yogesh Rathod",
+      "author_designation": "theproteam"
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "./img/pralhad.png",
+      "description": "You have a talent for simplifying complex problems.",
+      "author_name": "Pralhad Rathod",
+      "author_designation": "theproteam"
     }
+
   ]
 }
