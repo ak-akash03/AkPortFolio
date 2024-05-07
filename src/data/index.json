@@ -30,21 +30,21 @@
       "id": "1",
       "src": "./img/placeholder-image.png",
       "title": "Hand Free Computer ",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Developed a cutting-edge, computer vision-based virtual mouse system, enabling hands-free computer interaction for individuals with limited or no hand mobility, resulting in enhanced accessibility and independence.",
       "link": "https://github.com/ak-akash03/HandFreeComputer"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "Helpico.in",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "Welcome to Assignment.com , a dedicated platform committed to empowering students on their academic journey. We understand the unique challenges students face, and our mission is to provide comprehensive support to enhance your learning experience and success.",
       "link": "https://github.com/ak-akash03/assignment.com"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Multibrand E-Commerce",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "description": "An e-commerce website is a digital storefront that allows people to buy and sell products and services online. It functions as a virtual space where buyers can browse products and make selections, while sellers can showcase products, process orders, and accept payments",
       "link": "https://github.com/ak-akash03?tab=repositories"
     }
   ],
