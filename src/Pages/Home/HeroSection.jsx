@@ -15,6 +15,7 @@ export default function HeroSection() {
         </div>
         <div className="btn-c">
         <a target="_black" href="https://drive.google.com/uc?export=download&id=1P-jw3MsDGSbaFL-VE8nBlI1FV39GLDiS" className="btn btn-primary">GET MY RESUME</a>
+        <a target="_black" href="https://ak-akash03.github.io/editinglabproject/" className="btn btn-primary">GO-TO AK CREATION</a>
      
         </div>
       </div>
